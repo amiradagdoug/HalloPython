@@ -1,0 +1,9 @@
+alter =14
+if ( alter <18):
+ print ("du bist nicht volljährlig")
+
+elif ( alter >18):
+
+  print ("du bist  genau ")
+else: 
+  print ("du bist  volljährlig")
